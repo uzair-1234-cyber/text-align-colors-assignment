@@ -1,0 +1,54 @@
+body{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    position: relative;
+    background: linear-gradient(135deg,rgb(191, 191, 255),rgb(165, 34, 165));
+}
+.text{
+    align-items: center;
+    position: absolute;
+    left: 37%;
+    top: 280px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.f-one{
+    width:170px;
+    height: 15px;
+    background-color: rgb(104, 100, 100);
+    position: absolute;
+    left: 22%;
+    top: 310px;
+}
+.f-two{
+    width:170px;
+    height: 15px;
+    background-color: rgb(104, 100, 100);
+    position: absolute;
+    left: 58%;
+    top: 310px;
+}
+.f-three{
+    width:170px;
+    height: 15px;
+    background-color: rgb(104, 100, 100);
+    position: absolute;
+    left: 54%;
+    top: 365px;
+}
+.f-four{
+    width:170px;
+    height: 15px;
+    background-color: rgb(104, 100, 100);
+    position: absolute;
+    left: 26.5%;
+    top: 365px;
+}
+.hi{
+    position: absolute;
+    height: 200px;
+    left: 520px;
+    top: 100px;
+    border-radius: 20%;
+}
